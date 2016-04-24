@@ -1,3 +1,3 @@
 # ISEM-551-50
 
-sample project for Assignment 1
+Created branch and renamed to Assignment2

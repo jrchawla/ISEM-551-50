@@ -1185,3 +1185,21 @@ i.blog_icon5 {
 	margin-right: 5px;
  }
 }
+.assignment2:after {
+	content: "click here to test Assignment 2";
+	color: #ddd;
+	padding: 4px 10px;
+	width: 140px;
+	height: 50px;
+	background: red;
+	position: absolute;
+	margin-top: -90px;
+	margin-left: -10px
+}
+.assignment2:before {
+	content: "";
+	position:absolute;
+	border: 12px solid transparent;
+	border-top-color: red;
+	margin-left: 45px;
+}
